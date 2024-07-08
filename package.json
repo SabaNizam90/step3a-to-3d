@@ -1,0 +1,19 @@
+{
+  "name": "step03",
+  "version": "1.0.0",
+  "description": "saba pagal's node work",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saba nizam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
